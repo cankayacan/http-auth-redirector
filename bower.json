@@ -1,0 +1,14 @@
+{
+  "author": "Can Kayacan",
+  "name": "http-auth-redirector",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cankayacan/http-auth-redirector",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cankayacan/http-auth-redirector.git"
+  },
+  "main": "./angular-auth-redirector.js",
+  "dependencies": {
+    "angular": "^1.2"
+  }
+}
